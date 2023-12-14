@@ -713,7 +713,7 @@ section {
 .footer .box-container .box .link {
   font-size: 1.5rem;
   line-height: 2;
-  color: #313030;
+  color: #0f0f0f;
   padding: 0.5rem 0;
   display: block;
 }
@@ -724,7 +724,7 @@ section {
 .footer .box-container .box p {
   font-size: 1.5rem;
   line-height: 2;
-  color: #504e4e;
+  color: #161515;
   padding: 1rem 0;
 }
 .footer .box-container .box .email {
